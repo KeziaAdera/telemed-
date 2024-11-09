@@ -1,0 +1,23 @@
+[
+    {
+      "patientId": "25567799",
+      "patientInfo": "",
+      "medicalNotes": "sick",
+      "complaints": "Hi, I have a headache,what is wrong with me?",
+      "timestamp": "2024-11-30T01:43:12.531Z"
+    },
+    {
+      "patientId": "23478901",
+      "patientInfo": "",
+      "medicalNotes": "he's okay",
+      "complaints": "Hi, I have a headache,what is wrong with me?",
+      "timestamp": "2024-11-30T01:47:16.433Z"
+    },
+    {
+      "patientId": "2444678",
+      "patientInfo": "",
+      "medicalNotes": "he's very sick",
+      "complaints": "Hi, I have a stomachache,what is wrong with me?",
+      "timestamp": "2024-11-30T01:47:35.928Z"
+    }
+  ]
